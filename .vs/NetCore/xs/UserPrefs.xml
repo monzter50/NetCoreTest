@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2F9630A2-E2AE-4EFA-9239-E285FFD2DC38}|Default">
+  <MonoDevelop.Ide.ItemProperties.NetCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppCourseSaleContext.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="57" />
+      <File FileName="AppCourseSaleContext.cs" Line="1" Column="1" />
+      <File FileName="Course.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NetCore" expanded="True">
+            <Node name="NetCore" expanded="True">
+              <Node name="AppCourseSaleContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
